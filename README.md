@@ -36,4 +36,5 @@ I have a full blog post on how to setup your own local Resolve server. Although 
 ## Hardware
 Here's a list of the equipment I'm currently using. The links below are Amazon affiliate links because... I gotta get something out of it. There's no additional cost to you but I get a small commission if you make a purchase through my links below.
 
-Canon RP - This is the same camera I use for personal use. It has a bad rep but it's a great travel camera. 4K on this camera is pretty awful, but all my current workflow is in 1080p
+[Canon RP](https://amzn.to/3N4bL6z) - This is the same camera I use for personal use. It's a full frame camera and great for pictures. It has a bad rep but it's an awesome travel camera. 4K on this camera is pretty awful, but all my current workflows are in 1080p</br>
+[Zoom H1n](https://amzn.to/4dAPHuU) - Basic microphone and voice recorder. I have it plugged directly to the camera for better audio capture. There's a new version called H1 Essential that is essentially (pun intended) the same product with newer packaging. The new version has some better niceties like a metal tripod threads instead of plastic.
